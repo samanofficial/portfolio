@@ -26,7 +26,7 @@ function Projects() {
               title="NFT Minter"
               description="NFT minter is basic web application which makes nft of the object uploaded by generating unique address for the object
 on polygon blockchain"
-              ghLink="https://github.com/samanofficial/"
+              ghLink="https://github.com/samanofficial/NFT-Minter"
               demoLink=""
             />
           </Col>
