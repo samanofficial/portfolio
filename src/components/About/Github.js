@@ -9,7 +9,7 @@ function Github() {
         How Much I <strong className="teal">Code</strong>
       </h1>
       <GitHubCalendar
-        username="harekrishnarai"
+        username="samanofficial"
         blockSize={15}
         blockMargin={5}
         color="#1e41f0"
